@@ -82,5 +82,3 @@ All algorithms are implemented manually in Python:
 - **Matrix operations:** NumPy  
 - **Visualization:** Matplotlib (optional)  
 
-File structure:
-
